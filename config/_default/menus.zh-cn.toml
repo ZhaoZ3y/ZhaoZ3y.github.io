@@ -25,7 +25,7 @@
  name = "markity"
  parent = "友链"
  url = "https://markity.github.io/"
- weight = 20
+ weight = 10
 
 [[main]]
  name = "giftia"
@@ -37,7 +37,7 @@
  name = "giftia"
  parent = "友链"
  url = "https://www.sfkm.me/"
- weight = 20
+ weight = 30
  
 
 #[[subnavigation]]
