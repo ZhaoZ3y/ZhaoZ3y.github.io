@@ -1,0 +1,10 @@
+{{- $user := .Get "user" | default site.Params.github.username | default "YOUR_GITHUB_USERNAME" -}}
+{{- $theme := .Get "theme" | default "github-compact" -}}
+
+<p class="not-prose">
+  <img
+    alt="GitHub Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username={{ $user }}&theme={{ $theme }}"
+    loading="lazy"
+  />
+</p>

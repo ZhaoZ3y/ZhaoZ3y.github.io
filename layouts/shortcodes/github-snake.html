@@ -1,0 +1,12 @@
+{{- $user := .Get "user" | default site.Params.github.username | default "YOUR_GITHUB_USERNAME" -}}
+{{- $repo := .Get "repo" | default $user -}}
+{{- $branch := .Get "branch" | default "output" -}}
+{{- $file := .Get "file" | default "github-contribution-grid-snake.svg" -}}
+
+<p class="not-prose">
+  <img
+    alt="Contribution Snake"
+    src="https://raw.githubusercontent.com/{{ $user }}/{{ $repo }}/{{ $branch }}/{{ $file }}"
+    loading="lazy"
+  />
+</p>

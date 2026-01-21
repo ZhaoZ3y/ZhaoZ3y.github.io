@@ -1,0 +1,12 @@
+{{- $user := .Get "user" | default site.Params.github.username | default "YOUR_GITHUB_USERNAME" -}}
+{{- $theme := .Get "theme" | default "transparent" -}}
+{{- $show_icons := .Get "show_icons" | default "true" -}}
+{{- $hide_border := .Get "hide_border" | default "true" -}}
+
+<p class="not-prose">
+  <img
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username={{ $user }}&show_icons={{ $show_icons }}&hide_border={{ $hide_border }}&theme={{ $theme }}"
+    loading="lazy"
+  />
+</p>

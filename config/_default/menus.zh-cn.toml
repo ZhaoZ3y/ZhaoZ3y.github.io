@@ -17,25 +17,32 @@
  weight = 10
 
 [[main]]
+ name = "关于我"
+ url = "/about/"
+ pre = "user"
+ weight = 20
+
+[[main]]
  name = "友链"
+ identifier = "friends"
  weight = 20
  pre = "友链"
 
 [[main]]
  name = "markity"
- parent = "友链"
+ parent = "friends"
  url = "https://markity.github.io/"
  weight = 10
 
 [[main]]
  name = "giftia"
- parent = "友链"
+ parent = "friends"
  url = "https://hch1212.github.io/"
  weight = 20
 
 [[main]]
- name = "giftia"
- parent = "友链"
+ name = "SnowyKami"
+ parent = "friends"
  url = "https://www.sfkm.me/"
  weight = 30
  

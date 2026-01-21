@@ -13,7 +13,7 @@ hasCJKLanguage = true
 enableRobotsTXT = true
 summaryLength = 0
 
-buildDrafts = false
+buildDrafts = true
 buildFuture = false
 
 enableEmoji = true
@@ -39,6 +39,9 @@ enableEmoji = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[params.github]
+username = "ZhaoZ3y"
 
 [related]
   threshold = 0

@@ -1,0 +1,13 @@
+{{- $user := .Get "user" | default site.Params.github.username | default "YOUR_GITHUB_USERNAME" -}}
+{{- $layout := .Get "layout" | default "compact" -}}
+{{- $theme := .Get "theme" | default "transparent" -}}
+{{- $hide_border := .Get "hide_border" | default "true" -}}
+{{- $langs_count := .Get "langs_count" | default "8" -}}
+
+<p class="not-prose">
+  <img
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ $user }}&layout={{ $layout }}&langs_count={{ $langs_count }}&hide_border={{ $hide_border }}&theme={{ $theme }}"
+    loading="lazy"
+  />
+</p>
