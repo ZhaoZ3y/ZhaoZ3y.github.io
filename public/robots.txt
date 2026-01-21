@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ZhaoZ3y.github.io/sitemap.xml
