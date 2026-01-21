@@ -12,7 +12,7 @@
 
 [[main]]
  name = "文章"
- pageRef = "/posts"
+ pageRef = "posts"
  pre = "文章"
  weight = 10
 

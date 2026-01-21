@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 3ing の Blog</title>
-    <link>https://ZhaoZ3y.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on 3ing の Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>youremail@example.com (3ing)</managingEditor>
     <webMaster>youremail@example.com (3ing)</webMaster>
     <copyright>© 2025 - 2026 3ing All Rights Reserved.</copyright>
-    <atom:link href="https://ZhaoZ3y.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
