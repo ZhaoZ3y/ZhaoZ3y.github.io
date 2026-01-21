@@ -11,19 +11,34 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
- name = "主页"
- pageRef = "/"
- weight = 10
-
-[[main]]
  name = "文章"
  pageRef = "/posts"
+ pre = "文章"
  weight = 10
 
 [[main]]
  name = "友链"
  weight = 20
+ pre = "友链"
 
+[[main]]
+ name = "markity"
+ parent = "友链"
+ url = "https://markity.github.io/"
+ weight = 20
+
+[[main]]
+ name = "giftia"
+ parent = "友链"
+ url = "https://hch1212.github.io/"
+ weight = 20
+
+[[main]]
+ name = "giftia"
+ parent = "友链"
+ url = "https://www.sfkm.me/"
+ weight = 20
+ 
 
 #[[subnavigation]]
 #  name = "An interesting topic"
