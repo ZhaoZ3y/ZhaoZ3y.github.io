@@ -10,7 +10,7 @@ draft: false
 
 ## Skills
 
-<span class="icon-lg">{{< icon "go" >}}</span> <span class="icon-lg">{{< icon "python" >}}</span> <span class="icon-lg">{{< icon "linux" >}}</span> <span class="icon-lg">{{< icon "docker" >}}</span> <span class="icon-lg">{{< icon "redis" >}}</span> <span class="icon-lg">{{< icon "mysql" >}}</span> <span class="icon-lg">{{< icon "kafka" >}}</span> <span class="icon-lg">{{< icon "k8s" >}}</span> <span class="icon-lg">{{< icon "Vue" >}}</span> <span class="icon-lg">{{< icon "MongoDB" >}}</span> <span class="icon-lg">{{< icon "prometheus" >}}</span> <span class="icon-lg">{{< icon "jaeger" >}}</span> <span class="icon-lg">{{< icon "grafana" >}}</span> <span class="icon-lg">{{< icon "OpenTelemetry" >}}</span> <span class="icon-lg">{{< icon "nginx" >}}</span> 
+<span class="icon-lg">{{< icon "go" >}}</span> <span class="icon-lg">{{< icon "python" >}}</span> <span class="icon-lg">{{< icon "linux" >}}</span> <span class="icon-lg">{{< icon "docker" >}}</span> <span class="icon-lg">{{< icon "redis" >}}</span> <span class="icon-lg">{{< icon "mysql" >}}</span> <span class="icon-lg">{{< icon "Kafka" >}}</span> <span class="icon-lg">{{< icon "k8s" >}}</span> <span class="icon-lg">{{< icon "Vue" >}}</span> <span class="icon-lg">{{< icon "MongoDB" >}}</span> <span class="icon-lg">{{< icon "prometheus" >}}</span> <span class="icon-lg">{{< icon "jaeger" >}}</span> <span class="icon-lg">{{< icon "grafana" >}}</span> <span class="icon-lg">{{< icon "OpenTelemetry" >}}</span> <span class="icon-lg">{{< icon "nginx" >}}</span> 
 
 ## My GitHub Data
 
