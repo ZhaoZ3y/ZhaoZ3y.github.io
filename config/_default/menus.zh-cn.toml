@@ -20,18 +20,18 @@
  name = "关于我"
  url = "/about/"
  pre = "user"
- weight = 20
+ weight = 40
 
 [[main]]
  name = "标签"
  pageRef = "tags"
  pre = "tag"
- weight = 30
+ weight = 20
 
 [[main]]
  name = "友链"
  identifier = "friends"
- weight = 40
+ weight = 30
  pre = "友链"
 
 [[main]]
