@@ -11,5 +11,25 @@
     <copyright>© 2025 - 2026 3ing All Rights Reserved.</copyright>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Suan&#39;c&#39;f</title>
+      <link>http://localhost:1313/categories/suancf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (3ing)</author>
+      <guid>http://localhost:1313/categories/suancf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>算法</title>
+      <link>http://localhost:1313/categories/%E7%AE%97%E6%B3%95/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (3ing)</author>
+      <guid>http://localhost:1313/categories/%E7%AE%97%E6%B3%95/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>
