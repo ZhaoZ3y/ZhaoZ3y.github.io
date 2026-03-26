@@ -52,6 +52,11 @@
  url = "https://www.sfkm.me/"
  weight = 30
  
+[[main]]
+ name = "moonic"
+ parent = "friends"
+ url = "http://www.moonic.site/"
+ weight = 40
 
 #[[subnavigation]]
 #  name = "An interesting topic"
