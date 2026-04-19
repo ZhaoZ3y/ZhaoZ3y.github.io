@@ -58,6 +58,12 @@
  url = "http://www.moonic.site/"
  weight = 40
 
+ [[main]]
+ name = "Eilvy"
+ parent = "friends"
+ url = "eilvy.github.io"
+ weight = 40
+
 #[[subnavigation]]
 #  name = "An interesting topic"
 #  pageRef = "tags/interesting-topic"
